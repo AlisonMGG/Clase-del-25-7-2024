@@ -15,7 +15,7 @@ public class Actividad25Del7 {
             System.out.println("-------Menu--------");
 
             System.out.println("1. nuevo aluno");
-            System.out.println("2. ver alumno");
+            System.out.println("2. ver alumnos");
             System.out.println("3. buscar alumno");
             System.out.println("4. modificar alumno");
             System.out.println("5. Salir");
@@ -94,7 +94,7 @@ public class Actividad25Del7 {
 //                cadena = cadena + arreglo[i].getClave() + " | " + arreglo[i].getNombre() + " | " + arreglo[i].getGrado() + "\n";
 
             if (arreglo[i] != null) {
-                cadena = cadena + arreglo[i].getClave() + " | " + arreglo[i].getNombre() + " | " + arreglo[i].getGrado() + "\n";
+                 cadena = cadena + arreglo[i].getClave() + " | " + arreglo[i].getNombre() + " | " + arreglo[i].getGrado() + "\n";
 
 
 
