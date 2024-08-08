@@ -28,6 +28,9 @@ public class Estudiante {
         this.grado = grado;
     }
 
+    public int getClave() {
+        return clave;
+    }
     
     
 }
